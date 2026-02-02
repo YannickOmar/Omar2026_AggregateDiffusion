@@ -1,0 +1,11 @@
+name: membrane_AddDiff
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - shapely>=2
+  # Only required for GenLA.py and GenDLCA.py:
+  - graph-tool
