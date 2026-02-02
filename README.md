@@ -1,4 +1,4 @@
-# Lattice aggregates + membrane hydrodynamics (code release)
+# Membrane protein aggregate diffusion (code release)
 
 This repository contains:
 1) generators for lattice-based aggregates (SAW, DLA, LA, DLCA) that output particle coordinates, and  
